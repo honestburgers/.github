@@ -1,5 +1,5 @@
 # About us
-![Just being Honest](honest.jpg)
+![Just being Honest](/profile/honest.jpg)
 
 We’re on a mission to create more Honest experiences. We’re craftspeople. People who think and do. People who take pride in what we make. People who are always striving to make it better.
 
